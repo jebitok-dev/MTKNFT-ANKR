@@ -20,5 +20,5 @@ module.exports = {
       url: RPC_URL || "",
       accounts: PRIVATE_KEY !== undefined ? [PRIVATE_KEY] : [],
     },
-  },
+  }
 };
